@@ -124,13 +124,15 @@ Automated topic classification helps:
 ---
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the **PAPM License**.
 
 ---
 
 ## 🙋 Author
-*Pragath 
-📧 Contact: [Your Email Here]  
-🔗 GitHub: [Your GitHub Link Here]  
+**Pragathi Porawakara Arachchige**  
+📎 [GitHub Profile](https://github.com/PragathiM007)  
+Bellevue University – DSC680 Applied Data Science
+
+ 
 
 
